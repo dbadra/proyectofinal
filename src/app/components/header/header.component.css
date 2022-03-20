@@ -23,5 +23,10 @@ position: relative;
 background-color: black;
 left: -30px;
 bottom: -250px;
+}
+
+.col-sm-4{
+padding:45px;
+background-color: greenyellow;
 
 }
